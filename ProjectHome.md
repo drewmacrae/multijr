@@ -1,0 +1,1 @@
+I've been tweaking several Meggyjr games in order to let me assemble a sketch to play multiple games. Games have been minimally modified to make them take less RAM and in a few cases to make them fit in with the interface better.
